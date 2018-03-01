@@ -1,0 +1,10 @@
+lib/obj
+lib/bin
+lib/deps
+lib/cmake-build-debug
+.cache
+lib/CMakeLists.txt
+nvme_sampler/_ext/
+build/
+dist/
+*.egg-info/
